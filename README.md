@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lannix01
 - 👀 I’m interested in coding and development
 - 🌱 I’m currently learning information technology
-- 💞️ I’m looking to collaborate on web developments and app building, other coding projects
+- 💞️ I wanna collaborate on game development, web developments and app building, other coding projects
 - 📫 How to reach me .. email me on nichmut43@gmail.com or APP +254727248598
 
 <!---
